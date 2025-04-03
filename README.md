@@ -131,8 +131,7 @@ This project is licensed under the MIT License.
 ## **Contact**
 For queries or feedback, feel free to reach out:
 - **Name**: Siddharth Kharche
-- **Email**: [siddukharche04@gmail.com](mailto:siddukharche04@gmail.com)
-- **GitHub**: [siddharth-Kharche](https://github.com/siddharth-Kharche)
+- **Email**: [siddukharche04@gmail.com](stanleyuzum@gmail.com)
 
 ---
 
