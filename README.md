@@ -130,8 +130,8 @@ This project is licensed under the MIT License.
 
 ## **Contact**
 For queries or feedback, feel free to reach out:
-- **Name**: Siddharth Kharche
-- **Email**: [siddukharche04@gmail.com](stanleyuzum@gmail.com)
+- **Name**: Stanley Ekene Uzum
+- **Email**: [stanleyuzum@gmail.com](stanleyuzum@gmail.com)
 
 ---
 
